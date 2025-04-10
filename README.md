@@ -1,5 +1,5 @@
-# Beslutsteori
-Labbar från en beslutsteorikurs!
+# Decision theory
+Labs from a decision theory course!
 
 ## labb 1
 Posterior probability and odds
